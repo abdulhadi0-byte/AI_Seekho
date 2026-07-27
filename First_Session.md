@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="./assets/ai_seekho_banner.png" alt="AI SEEKHO" width="600"/>
-
+<img src="./ai_seekho_banner.png" alt="AI SEEKHO" width="600"/>
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E4FB8&center=true&vCenter=true&width=600&lines=Learn+AI.+Build+with+AI.;Prompt+Engineering+%F0%9F%A7%A0;Cursor+%2B+Claude+%2B+Copilot+%F0%9F%9A%80;8+Weeks+%7C+16+Sessions+%7C+7+Guest+Speakers)
