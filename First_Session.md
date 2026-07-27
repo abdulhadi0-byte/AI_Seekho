@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ai_seekho_banner.png" alt="AI SEEKHO - UMT Inter AI Club" width="600"/>
+<img src="./assets/ai_seekho_banner.png" alt="AI SEEKHO" width="600"/>
 
 <br/>
 
