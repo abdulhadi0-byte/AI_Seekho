@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ai_seekho_banner.png" alt="AI SEEKHO - UMT Inter AI Club" width="600"/>
+<img src="./assets/ai_seekho_banner.png" alt="AI SEEKHO - UMT Inter AI Club" width="600"/>
 
 <br/>
 
@@ -19,7 +19,8 @@
 
 <br/>
 
-# 🚀 AI_Sikho
+# 📅 Session 1 · Week 1
+## The AI-First Developer Mindset and Environment Setup
 
 <div align="center">
 
@@ -29,49 +30,24 @@
 
 </div>
 
-<div align="center">
-
-### ✨ *"Learn AI. Build with AI."* ✨
-
-**Learning to build software in the AI-first era — one session, one commit, one prompt at a time.**
-
-</div>
-
 <br/>
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-Welcome to my learning journal repo for the **AI-First Developer Program**. This repository documents everything I learn, build, and break (and fix) as I go from "writes code" to "directs AI to write great code, and knows why it's great."
-
----
-
 ## 📌 Table of Contents
 
-- [About This Repo](#-about-this-repo)
-- [Session 1: The AI-First Developer Mindset](#-session-1--week-1--the-ai-first-developer-mindset-and-environment-setup)
+- [Session Overview](#-session-overview)
+- [The Big Shift: Why the Market Changed](#-the-big-shift-why-the-market-changed)
 - [🧠 Deep Dive: Prompt Engineering](#-deep-dive-prompt-engineering)
 - [🛠️ AI Tool Landscape](#️-ai-tool-landscape-compared)
 - [⚙️ Environment Setup Checklist](#️-environment-setup-checklist)
 - [📚 Case Study](#-case-study-context-is-everything)
 - [✅ Practical Task Completed](#-practical-task-completed)
 - [🔗 References](#-references)
-- [🗺️ Roadmap](#️-roadmap)
 
 ---
 
-## 🧭 About This Repo
-
-The job market changed. In 2021, a junior developer's day looked like: write boilerplate, Google Stack Overflow, ask a senior dev, repeat. Today, **AI tools fill that "junior dev" gap** — autocomplete, chat-based reasoning, and even agentic terminal-running assistants can do that first draft of work in seconds.
-
-That means the skill that actually matters now isn't *"can you write a for-loop"* — it's:
-
-> **Can you direct an AI tool well enough to get production-quality output, and do you understand it well enough to judge if it's right?**
-
-This repo is my proof of work as I build that skill, week by week.
-
----
-
-## 📅 Session 1 · Week 1 · The AI-First Developer Mindset and Environment Setup
+## 🧭 Session Overview
 
 | | |
 |---|---|
@@ -79,7 +55,6 @@ This repo is my proof of work as I build that skill, week by week.
 | **Goal** | Get everyone on the same tools, and set the mental model for the next 8 weeks |
 | **Format** | Live setup walkthrough — everyone follows along in real time |
 
-### 🎯 Session Goal
 Before diving into building anything, this session was about answering one question: *why* are we even learning this way? Once that clicked, the rest — tools, prompting, setup — followed naturally.
 
 ---
@@ -138,8 +113,6 @@ Don't accept the first draft. Ask the AI to **critique its own output** before y
 ```
 **Why it matters:** This single step catches a huge percentage of subtle bugs and lazy first-pass solutions — the AI is often a better critic of itself than a first-time writer.
 
----
-
 ### 🧩 The Prompt Engineering Formula (my own summary)
 
 ```
@@ -174,7 +147,7 @@ GOOD PROMPT = Role + Real Context + Example (if needed) + Ask for Self-Critique
   ssh-keygen -t ed25519 -C "your_email@example.com"
   ```
   → Added public key to **GitHub → Settings → SSH and GPG Keys**
-- [x] Created my **first repository** (this one! 👋)
+- [x] Created my **first repository** (AI_Sikho 👋)
 - [x] Cloned it locally, made my **first commit**, and pushed it
 - [x] Set up `.gitignore` basics:
   ```gitignore
@@ -233,14 +206,6 @@ By the end of Session 1, I had:
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] **Week 1** — AI-first mindset, tool landscape, prompt engineering fundamentals, environment setup
-- [ ] **Week 2** — Coming soon...
-- [ ] **Phase 4** — Local LLMs & advanced multi-agent orchestration *(not covered yet — future session)*
-
----
-
 <p align="center">
-  <i>📈 Documenting the journey from "writes code" to "directs AI to write great code."</i>
+  <i>📈 Session 1 of 16 — AI SEEKHO by UMT Inter AI Club</i>
 </p>
