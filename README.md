@@ -1,10 +1,45 @@
+<div align="center">
+
+<img src="./ai_seekho_banner.png" alt="AI SEEKHO - UMT Inter AI Club" width="600"/>
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E4FB8&center=true&vCenter=true&width=600&lines=Learn+AI.+Build+with+AI.;Prompt+Engineering+%F0%9F%A7%A0;Cursor+%2B+Claude+%2B+Copilot+%F0%9F%9A%80;8+Weeks+%7C+16+Sessions+%7C+7+Guest+Speakers)
+
+<br/>
+
+![Program](https://img.shields.io/badge/Program-AI%20SEEKHO-1E4FB8?style=for-the-badge&logo=googlebard&logoColor=white)
+![Club](https://img.shields.io/badge/Club-Inter%20AI%20Club%20UMT-black?style=for-the-badge)
+![Office](https://img.shields.io/badge/Presented%20by-UMT%20%7C%20OPA-4285F4?style=for-the-badge)
+![Weeks](https://img.shields.io/badge/Duration-8%20Weeks-success?style=for-the-badge)
+![Sessions](https://img.shields.io/badge/Sessions-16-orange?style=for-the-badge)
+![Speakers](https://img.shields.io/badge/Guest%20Speakers-7-red?style=for-the-badge)
+
+</div>
+
+<br/>
+
 # 🚀 AI_Sikho
 
-**👤 Student:** Abdul Hadi
-**🎓 Roll Number:** F2025376179
-**👨‍🏫 Instructor:** Sir Umar
+<div align="center">
 
-> **Learning to build software in the AI-first era — one session, one commit, one prompt at a time.**
+| 👤 Student | 🎓 Roll Number | 👨‍🏫 Instructor |
+|:---:|:---:|:---:|
+| **Abdul Hadi** | **F2025376179** | **Sir Umar** |
+
+</div>
+
+<div align="center">
+
+### ✨ *"Learn AI. Build with AI."* ✨
+
+**Learning to build software in the AI-first era — one session, one commit, one prompt at a time.**
+
+</div>
+
+<br/>
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 Welcome to my learning journal repo for the **AI-First Developer Program**. This repository documents everything I learn, build, and break (and fix) as I go from "writes code" to "directs AI to write great code, and knows why it's great."
 
@@ -209,5 +244,3 @@ By the end of Session 1, I had:
 <p align="center">
   <i>📈 Documenting the journey from "writes code" to "directs AI to write great code."</i>
 </p>
-#   A I _ S i k h o  
- 
